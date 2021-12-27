@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Site.Engine", "Shop.Engine\Site.Engine.csproj", "{0F1A9195-8977-4CDE-90BA-B907B8A066F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Libraries", "_Libraries", "{0E40730C-5EC1-4D8E-B355-2DF3BB0E8F6F}"
+	ProjectSection(SolutionItems) = preProject
+		_Libraries\Commune.Basis.dll = _Libraries\Commune.Basis.dll
+		_Libraries\Commune.Data.dll = _Libraries\Commune.Data.dll
+		_Libraries\Commune.Diagnostics.dll = _Libraries\Commune.Diagnostics.dll
+		_Libraries\Commune.Html.dll = _Libraries\Commune.Html.dll
+		_Libraries\Commune.Task.dll = _Libraries\Commune.Task.dll
+		_Libraries\Newtonsoft.Json.dll = _Libraries\Newtonsoft.Json.dll
+		_Libraries\NitroBolt.Functional.dll = _Libraries\NitroBolt.Functional.dll
+		_Libraries\NitroBolt.Wui.dll = _Libraries\NitroBolt.Wui.dll
+		_Libraries\System.Data.SQLite.dll = _Libraries\System.Data.SQLite.dll
+		_Libraries\System.Net.Http.Formatting.dll = _Libraries\System.Net.Http.Formatting.dll
+		_Libraries\System.Web.Http.dll = _Libraries\System.Web.Http.dll
+		_Libraries\System.Web.Http.WebHost.dll = _Libraries\System.Web.Http.WebHost.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Prototype", "Shop.Prototype\Shop.Prototype.csproj", "{1AD2D4E3-F2C3-4E00-85AE-1D89690A94EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F1A9195-8977-4CDE-90BA-B907B8A066F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1A9195-8977-4CDE-90BA-B907B8A066F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1A9195-8977-4CDE-90BA-B907B8A066F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1A9195-8977-4CDE-90BA-B907B8A066F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD2D4E3-F2C3-4E00-85AE-1D89690A94EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD2D4E3-F2C3-4E00-85AE-1D89690A94EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD2D4E3-F2C3-4E00-85AE-1D89690A94EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD2D4E3-F2C3-4E00-85AE-1D89690A94EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08C67C8A-0671-4809-A0F6-6C321326DD7D}
+	EndGlobalSection
+EndGlobal

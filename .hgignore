@@ -1,0 +1,8 @@
+syntax: glob
+bin/**
+obj/**
+Logs/**
+Data/**
+ckeditor/**
+.vs/**
+packages/**

@@ -1,0 +1,13 @@
+c:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Debug\Shop.Engine.dll
+c:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Debug\Shop.Engine.pdb
+c:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Debug\Commune.Basis.dll
+c:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Debug\Commune.Data.dll
+c:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Debug\Commune.Html.dll
+c:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Debug\Commune.Diagnostics.dll
+c:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Debug\NitroBolt.Wui.dll
+c:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Debug\Newtonsoft.Json.dll
+c:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Debug\NitroBolt.Functional.dll
+c:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\obj\Debug\Shop.Engine.csprojResolveAssemblyReference.cache
+c:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\obj\Debug\Shop.Engine.dll
+c:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\obj\Debug\Shop.Engine.pdb
+c:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Debug\System.Data.SQLite.dll

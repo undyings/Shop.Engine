@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>c:\Root\Shop.Prototype</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="answer.txt">
+      <publishTime>06/23/2019 14:25:48</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>05/20/2016 13:07:00</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>05/20/2016 13:06:59</publishTime>
+    </File>
+    <File Include="bin/Commune.Basis.dll">
+      <publishTime>05/24/2018 12:36:33</publishTime>
+    </File>
+    <File Include="bin/Commune.Data.dll">
+      <publishTime>03/21/2018 17:37:04</publishTime>
+    </File>
+    <File Include="bin/Commune.Diagnostics.dll">
+      <publishTime>03/13/2018 15:21:06</publishTime>
+    </File>
+    <File Include="bin/Commune.Html.dll">
+      <publishTime>04/24/2019 16:39:19</publishTime>
+    </File>
+    <File Include="bin/Commune.Task.dll">
+      <publishTime>03/13/2018 15:41:02</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/06/2016 19:34:56</publishTime>
+    </File>
+    <File Include="bin/NitroBolt.Functional.dll">
+      <publishTime>07/03/2016 13:35:12</publishTime>
+    </File>
+    <File Include="bin/NitroBolt.Wui.dll">
+      <publishTime>06/23/2019 16:04:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>01/29/2016 13:30:25</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>01/29/2016 13:30:25</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>01/29/2016 13:30:25</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>01/29/2016 13:30:25</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>01/29/2016 13:30:25</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>01/29/2016 13:30:25</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>01/29/2016 13:30:25</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>01/29/2016 13:30:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>01/29/2016 13:30:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>01/29/2016 13:30:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>01/29/2016 13:30:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>01/29/2016 13:30:26</publishTime>
+    </File>
+    <File Include="bin/Shop.Engine.dll">
+      <publishTime>06/23/2019 17:01:35</publishTime>
+    </File>
+    <File Include="bin/Shop.Engine.pdb">
+      <publishTime>06/23/2019 17:01:35</publishTime>
+    </File>
+    <File Include="bin/Shop.Prototype.dll">
+      <publishTime>06/23/2019 17:05:28</publishTime>
+    </File>
+    <File Include="bin/Shop.Prototype.pdb">
+      <publishTime>06/23/2019 17:05:28</publishTime>
+    </File>
+    <File Include="bin/System.Collections.Immutable.dll">
+      <publishTime>07/03/2016 13:35:12</publishTime>
+    </File>
+    <File Include="bin/System.Data.SQLite.dll">
+      <publishTime>01/20/2011 10:52:16</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>07/03/2016 14:01:52</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>07/03/2016 14:01:52</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>07/03/2016 14:01:52</publishTime>
+    </File>
+    <File Include="Css/fileuploader.css">
+      <publishTime>04/29/2016 15:10:08</publishTime>
+    </File>
+    <File Include="Css/font-awesome.css">
+      <publishTime>02/08/2016 11:30:54</publishTime>
+    </File>
+    <File Include="Css/static.css">
+      <publishTime>04/20/2016 13:06:38</publishTime>
+    </File>
+    <File Include="Fonts/fontawesome-webfont.eot">
+      <publishTime>02/08/2016 11:30:54</publishTime>
+    </File>
+    <File Include="Fonts/fontawesome-webfont.svg">
+      <publishTime>02/08/2016 11:30:54</publishTime>
+    </File>
+    <File Include="Fonts/fontawesome-webfont.ttf">
+      <publishTime>02/08/2016 11:30:54</publishTime>
+    </File>
+    <File Include="Fonts/fontawesome-webfont.woff">
+      <publishTime>02/08/2016 11:30:54</publishTime>
+    </File>
+    <File Include="Fonts/fontawesome-webfont.woff2">
+      <publishTime>02/08/2016 11:30:54</publishTime>
+    </File>
+    <File Include="Fonts/FontAwesome.otf">
+      <publishTime>02/08/2016 11:30:54</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>07/07/2016 13:36:12</publishTime>
+    </File>
+    <File Include="Images/bg.png">
+      <publishTime>04/15/2016 21:48:02</publishTime>
+    </File>
+    <File Include="Images/bot.png">
+      <publishTime>08/06/2016 12:32:12</publishTime>
+    </File>
+    <File Include="Images/divider.png">
+      <publishTime>02/19/2016 14:39:54</publishTime>
+    </File>
+    <File Include="Images/favicon.ico">
+      <publishTime>02/21/2016 00:10:26</publishTime>
+    </File>
+    <File Include="Images/logo.png">
+      <publishTime>02/05/2016 20:39:26</publishTime>
+    </File>
+    <File Include="Images/placeholder.png">
+      <publishTime>02/12/2016 11:21:56</publishTime>
+    </File>
+    <File Include="Images/top.png">
+      <publishTime>08/06/2016 12:32:12</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>06/21/2015 23:09:38</publishTime>
+    </File>
+    <File Include="Js/fileuploader.js">
+      <publishTime>06/09/2014 18:55:12</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>05/20/2016 13:06:51</publishTime>
+    </File>
+    <File Include="Scripts/fileuploader.js">
+      <publishTime>09/06/2016 17:21:28</publishTime>
+    </File>
+    <File Include="Scripts/NitroBolt.Wui.2.0.13.js">
+      <publishTime>03/07/2016 12:35:28</publishTime>
+    </File>
+    <File Include="Scripts/NitroBolt.Wui.2.0.14.js">
+      <publishTime>09/29/2017 17:28:35</publishTime>
+    </File>
+    <File Include="Scripts/NitroBolt.Wui.2.0.48.js">
+      <publishTime>06/23/2019 16:08:04</publishTime>
+    </File>
+    <File Include="SiteSettings[example].config">
+      <publishTime>09/14/2016 18:21:04</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/23/2019 13:58:18</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,51 @@
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Release\Shop.Engine.dll
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Release\Shop.Engine.pdb
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Release\Commune.Basis.dll
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Release\Commune.Data.dll
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Release\Commune.Html.dll
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Release\Commune.Task.dll
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Release\NitroBolt.Wui.dll
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Release\System.Data.SQLite.dll
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Release\Commune.Diagnostics.dll
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Release\System.Collections.Immutable.dll
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Release\Newtonsoft.Json.dll
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Release\NitroBolt.Functional.dll
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Release\System.Web.Http.dll
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\obj\Release\Site.Engine.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\obj\Release\Shop.Engine.dll
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Shop.Engine\Shop.Engine\obj\Release\Shop.Engine.pdb
+D:\Users\Undying\Documents\Visual Studio 2015\Shop.Engine\Shop.Engine\bin\Release\Shop.Engine.dll
+D:\Users\Undying\Documents\Visual Studio 2015\Shop.Engine\Shop.Engine\bin\Release\Shop.Engine.pdb
+D:\Users\Undying\Documents\Visual Studio 2015\Shop.Engine\Shop.Engine\bin\Release\Commune.Basis.dll
+D:\Users\Undying\Documents\Visual Studio 2015\Shop.Engine\Shop.Engine\bin\Release\Commune.Data.dll
+D:\Users\Undying\Documents\Visual Studio 2015\Shop.Engine\Shop.Engine\bin\Release\Commune.Html.dll
+D:\Users\Undying\Documents\Visual Studio 2015\Shop.Engine\Shop.Engine\bin\Release\Commune.Task.dll
+D:\Users\Undying\Documents\Visual Studio 2015\Shop.Engine\Shop.Engine\bin\Release\NitroBolt.Wui.dll
+D:\Users\Undying\Documents\Visual Studio 2015\Shop.Engine\Shop.Engine\bin\Release\System.Data.SQLite.dll
+D:\Users\Undying\Documents\Visual Studio 2015\Shop.Engine\Shop.Engine\bin\Release\Commune.Diagnostics.dll
+D:\Users\Undying\Documents\Visual Studio 2015\Shop.Engine\Shop.Engine\bin\Release\System.Collections.Immutable.dll
+D:\Users\Undying\Documents\Visual Studio 2015\Shop.Engine\Shop.Engine\bin\Release\Newtonsoft.Json.dll
+D:\Users\Undying\Documents\Visual Studio 2015\Shop.Engine\Shop.Engine\bin\Release\NitroBolt.Functional.dll
+D:\Users\Undying\Documents\Visual Studio 2015\Shop.Engine\Shop.Engine\bin\Release\System.Web.Http.dll
+D:\Users\Undying\Documents\Visual Studio 2015\Shop.Engine\Shop.Engine\bin\Release\System.Net.Http.Formatting.dll
+D:\Users\Undying\Documents\Visual Studio 2015\Shop.Engine\Shop.Engine\obj\Release\Site.Engine.csprojResolveAssemblyReference.cache
+D:\Users\Undying\Documents\Visual Studio 2015\Shop.Engine\Shop.Engine\obj\Release\Shop.Engine.dll
+D:\Users\Undying\Documents\Visual Studio 2015\Shop.Engine\Shop.Engine\obj\Release\Shop.Engine.pdb
+D:\Projects\Shop.Engine\Shop.Engine\bin\Release\Shop.Engine.dll
+D:\Projects\Shop.Engine\Shop.Engine\bin\Release\Shop.Engine.pdb
+D:\Projects\Shop.Engine\Shop.Engine\bin\Release\Commune.Basis.dll
+D:\Projects\Shop.Engine\Shop.Engine\bin\Release\Commune.Data.dll
+D:\Projects\Shop.Engine\Shop.Engine\bin\Release\Commune.Html.dll
+D:\Projects\Shop.Engine\Shop.Engine\bin\Release\Commune.Task.dll
+D:\Projects\Shop.Engine\Shop.Engine\bin\Release\NitroBolt.Wui.dll
+D:\Projects\Shop.Engine\Shop.Engine\bin\Release\System.Data.SQLite.dll
+D:\Projects\Shop.Engine\Shop.Engine\bin\Release\Commune.Diagnostics.dll
+D:\Projects\Shop.Engine\Shop.Engine\bin\Release\System.Collections.Immutable.dll
+D:\Projects\Shop.Engine\Shop.Engine\bin\Release\Newtonsoft.Json.dll
+D:\Projects\Shop.Engine\Shop.Engine\bin\Release\NitroBolt.Functional.dll
+D:\Projects\Shop.Engine\Shop.Engine\bin\Release\System.Web.Http.dll
+D:\Projects\Shop.Engine\Shop.Engine\bin\Release\System.Net.Http.Formatting.dll
+D:\Projects\Shop.Engine\Shop.Engine\obj\Release\Site.Engine.csprojResolveAssemblyReference.cache
+D:\Projects\Shop.Engine\Shop.Engine\obj\Release\Shop.Engine.dll
+D:\Projects\Shop.Engine\Shop.Engine\obj\Release\Shop.Engine.pdb

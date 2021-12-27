@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0F1A9195-8977-4CDE-90BA-B907B8A066F2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Shop.Engine</RootNamespace>
+    <AssemblyName>Shop.Engine</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <IntermediateOutputPath>C:\Users\Undying\AppData\Local\Temp\vs932.tmp\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <IntermediateOutputPath>C:\Users\Undying\AppData\Local\Temp\vs932.tmp\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Commune.Basis">
+      <HintPath>..\_Libraries\Commune.Basis.dll</HintPath>
+    </Reference>
+    <Reference Include="Commune.Data">
+      <HintPath>..\_Libraries\Commune.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Commune.Html">
+      <HintPath>..\_Libraries\Commune.Html.dll</HintPath>
+    </Reference>
+    <Reference Include="Commune.Task">
+      <HintPath>..\_Libraries\Commune.Task.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_Libraries\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NitroBolt.Wui, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_Libraries\NitroBolt.Wui.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Collections.Immutable, Version=1.1.37.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_Libraries\System.Collections.Immutable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.65.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\_Libraries\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cml\BoxIndex.cs" />
+    <Compile Include="Cml\CmlElement.cs" />
+    <Compile Include="Cml\CmlHlp.cs" />
+    <Compile Include="Cml\CmlWriterHlp.cs" />
+    <Compile Include="Cml\CmlParserHlp.cs" />
+    <Compile Include="Cml\CmlSyncHlp.cs" />
+    <Compile Include="Cml\CmlTypes.cs" />
+    <Compile Include="Cml\Xml1C.cs" />
+    <Compile Include="EditState.cs" />
+    <Compile Include="Edit\ContentEdit.cs" />
+    <Compile Include="Edit\DecorEdit.cs" />
+    <Compile Include="Edit\EditElementHlp.cs" />
+    <Compile Include="Edit\GalleryEditorHlp.cs" />
+    <Compile Include="Edit\EditHlp.cs" />
+    <Compile Include="Edit\FabricFeatureEditHlp.cs" />
+    <Compile Include="Edit\FeatureEditHlp.cs" />
+    <Compile Include="Edit\GroupTunes.cs" />
+    <Compile Include="Edit\SectionTunes.cs" />
+    <Compile Include="Edit\EditPanelHlp.cs" />
+    <Compile Include="Edit\MetaEditHlp.cs" />
+    <Compile Include="Edit\SectionEditorHlp.cs" />
+    <Compile Include="Edit\SeoEdit.cs" />
+    <Compile Include="Edit\SeoEditorHlp.cs" />
+    <Compile Include="Edit\SeoPanelHlp.cs" />
+    <Compile Include="Edit\UnitEditorHlp.cs" />
+    <Compile Include="Edit\UnitTunes.cs" />
+    <Compile Include="Fabric\FabricHlp.cs" />
+    <Compile Include="Fabric\FabricObjects.cs" />
+    <Compile Include="Fabric\JumpBar.cs" />
+    <Compile Include="Fabric\SorterHlp.cs" />
+    <Compile Include="IContext.cs" />
+    <Compile Include="Order\SberbankHlp.cs" />
+    <Compile Include="SeoHlp.cs" />
+    <Compile Include="Site\BaseContext.cs" />
+    <Compile Include="Site\ContextTunes.cs" />
+    <Compile Include="Site\Site.cs" />
+    <Compile Include="Site\SiteContext.cs" />
+    <Compile Include="Site\SiteStore.cs" />
+    <Compile Include="Site\TileBar.cs" />
+    <Compile Include="Storage\LightUnit.cs" />
+    <Compile Include="Storage\NewsStorage.cs" />
+    <Compile Include="Storage\ObjectStorage.cs" />
+    <Compile Include="Storage\RedirectStorage.cs" />
+    <Compile Include="Storage\EditorSelector.cs" />
+    <Compile Include="Storage\SectionHlp.cs" />
+    <Compile Include="Storage\ShopStorage.cs" />
+    <Compile Include="Fabric\FabricTypes.cs" />
+    <Compile Include="Fabric\FabricXmlTypes.cs" />
+    <Compile Include="Fabric\MetaHlp.cs" />
+    <Compile Include="Fabric\Product.cs" />
+    <Compile Include="Shop\ShopStore.cs" />
+    <Compile Include="Fabric\TranslitLinks.cs" />
+    <Compile Include="Http\HttpLoader.cs" />
+    <Compile Include="Storage\LightSection.cs" />
+    <Compile Include="Storage\SectionStorage.cs" />
+    <Compile Include="Order\OrderCookie.cs" />
+    <Compile Include="Order\OrderHlp.cs" />
+    <Compile Include="Order\OrderTypes.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Search\SearchCondition.cs" />
+    <Compile Include="Search\SearchFilter.cs" />
+    <Compile Include="Search\SearchHlp.cs" />
+    <Compile Include="Search\SearchIndex.cs" />
+    <Compile Include="Search\SearchIndexStorage.cs" />
+    <Compile Include="Search\SearchModule.cs" />
+    <Compile Include="Shop\ShopContext.cs" />
+    <Compile Include="SiteTasks.cs" />
+    <Compile Include="Storage\WidgetStorage.cs" />
+    <Compile Include="UrlHlp.cs" />
+    <Compile Include="SiteSettings.cs" />
+    <Compile Include="SqLite\SQLiteDatabasePull.cs" />
+    <Compile Include="SqLite\SQLiteDataLayer.cs" />
+    <Compile Include="SqLite\SqLiteHlp.cs" />
+    <Compile Include="User\MessageHlp.cs" />
+    <Compile Include="User\MessageStorage.cs" />
+    <Compile Include="User\MessageStorageCache.cs" />
+    <Compile Include="User\MessageTypes.cs" />
+    <Compile Include="User\UserHlp.cs" />
+    <Compile Include="User\UserStorage.cs" />
+    <Compile Include="User\UserTypes.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

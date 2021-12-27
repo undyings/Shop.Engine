@@ -1,0 +1,6 @@
+# example repository config (see "hg help config" for more info)
+[paths]
+default = f:\data\mercurial\graph
+
+[ui]
+username = undying
